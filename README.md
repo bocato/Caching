@@ -1,4 +1,4 @@
-# Caching Abstration + Implementation
+# Caching Abstraction + Implementation
 
 
 ## Setup
