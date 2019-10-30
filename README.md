@@ -5,6 +5,16 @@
 
 - Use as an abstraction and implement your own cache service or use the provided `DiskCacheService` or `MemoryCacheService`.
 
+## Instalation
+
+Add this to Cartfile:
+
+`git "https://github.com/bocato/Caching.git" ~> 1.0`
+
+Then:
+
+`$ carthage update`
+
 ## Usage
 
 ### Instantiate Service
