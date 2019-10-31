@@ -1,4 +1,5 @@
-# Caching Abstraction + Implementation [![codecov](https://codecov.io/gh/bocato/Caching/branch/master/graph/badge.svg)](https://codecov.io/gh/bocato/Caching)
+# Caching [![codecov](https://codecov.io/gh/bocato/Caching/branch/master/graph/badge.svg)](https://codecov.io/gh/bocato/Caching)
+Caching Abstraction + Implementation
 
 
 ## Setup
