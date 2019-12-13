@@ -1,4 +1,8 @@
-# Caching [![codecov](https://codecov.io/gh/bocato/Caching/branch/master/graph/badge.svg)](https://codecov.io/gh/bocato/Caching)
+# Caching 
+
+[![codecov](https://codecov.io/gh/bocato/Caching/branch/master/graph/badge.svg)](https://codecov.io/gh/bocato/Caching)
+[![CodeFactor](https://www.codefactor.io/repository/github/bocato/caching/badge/master)](https://www.codefactor.io/repository/github/bocato/caching/overview/master)
+
 Caching Abstraction + Implementation
 
 
